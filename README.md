@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUNNA KUMAR PANDIT</h1>
 <h3 align="center">👨‍💻 Full Stack Developer | 🤖 AI/ML Enthusiast</h3>
-![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/35d9b13f-5668-42c3-a3ed-ec5b5269ebc7)
+<img src="[https://github.com/your-username/your-repo-name/blob/main/path-to-your-image-file.gif](https://github.com/user-attachments/assets/35d9b13f-5668-42c3-a3ed-ec5b5269ebc7)" alt="Coding GIF" width="400" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munna764592&label=Profile%20views&color=0e75b6&style=flat" alt="munna764592" /> </p>
