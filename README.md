@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN | REACT NATIVE**
 
-- 📫 How to reach me **mk366114@gmail.com**
+- 📫 How to reach me **dormsdots@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
